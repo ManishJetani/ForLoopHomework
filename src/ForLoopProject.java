@@ -95,7 +95,7 @@ public class ForLoopProject {   // instance method with parameters
     // created instance method
     public void factorialNumber(int f)
     {   // declaring variable
-        int fact = 1;
+        long fact = 1;
         // applying condition to find factorial number
         for (int i = 1; i <= f; i++)
         {
